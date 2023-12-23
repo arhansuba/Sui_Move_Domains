@@ -1,0 +1,35 @@
+{
+    "domains": [
+      {
+        "name": "example1.sui",
+        "owner": "0x1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a",
+        "resolution": "192.168.1.1"
+      },
+      {
+        "name": "example2.sui",
+        "owner": "0x2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b",
+        "resolution": "10.0.0.1"
+      },
+      {
+        "name": "example3.sui",
+        "owner": "0x3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c",
+        "resolution": "172.16.0.1"
+      },
+      {
+        "name": "mywebsite.sui",
+        "owner": "0x1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a1a",
+        "resolution": "192.168.1.100"
+      },
+      {
+        "name": "blog.sui",
+        "owner": "0x2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b2b",
+        "resolution": "10.0.0.5"
+      },
+      {
+        "name": "portfolio.sui",
+        "owner": "0x3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c3c",
+        "resolution": "172.16.0.10"
+      }
+    ]
+  }
+  
